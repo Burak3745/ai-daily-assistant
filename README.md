@@ -106,6 +106,16 @@ cd ios && pod install && cd ..
 npx react-native run-ios  
 ```
 
+## 💡 Gelecek Planları ve Geliştirme Önerileri
+
+Proje süresi uzatıldığı takdirde uygulamaya eklenebilecek geliştirmeler ve ölçeklendirme planları şunlardır:
+
+- **☁️ Bulut Senkronizasyonu (Cloud Sync):** Şu an veriler sadece cihazda (AsyncStorage) tutulmaktadır. Firebase veya Supabase entegrasyonu ile verilerin bulutta yedeklenmesi ve cihazlar arası senkronizasyon sağlanabilir.
+- **🎙️ Sesli Günlük (Voice-to-Text):** Kullanıcıların yazmak yerine konuşarak günlük tutabilmesi için OpenAI Whisper gibi bir model ile sesli giriş özelliği eklenebilir.
+- **📊 Detaylı İstatistikler:** Sadece haftalık değil; aylık duygu değişim grafikleri ve kelime bulutu (word cloud) gibi görselleştirmeler eklenebilir.
+- **🔐 Biyometrik Giriş:** Günlük verilerinin gizliliği için parmak izi veya FaceID ile giriş özelliği eklenebilir.
+- **🌙 Dark Mode:** Kullanıcı deneyimini iyileştirmek adına sistem temasına duyarlı Karanlık Mod desteği eklenebilir.
+
 ## 📸 Ekran Görüntüleri
 
 <p align="center">
