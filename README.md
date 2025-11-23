@@ -109,11 +109,11 @@ npx react-native run-ios
 ## 📸 Ekran Görüntüleri
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c7078226-f4aa-4aae-9a1e-5080c32592ae" width="190" />
-  <img src="https://github.com/user-attachments/assets/cf60aa5f-8f79-4e38-b472-44fd67e7d976" width="190" />
-  <img src="https://github.com/user-attachments/assets/532eb829-9671-4d4a-a3b4-f747b830dfeb" width="190" />
-  <img src="https://github.com/user-attachments/assets/cd3e784b-2560-405b-ba78-62751bcd18c7" width="190" />
-  <img src="https://github.com/user-attachments/assets/9dcea6bf-37c3-4a3c-ace0-86c97b9154e9" width="190" />
+  <img src="https://github.com/user-attachments/assets/c7078226-f4aa-4aae-9a1e-5080c32592ae" width="300" />
+  <img src="https://github.com/user-attachments/assets/cf60aa5f-8f79-4e38-b472-44fd67e7d976" width="300" />
+  <img src="https://github.com/user-attachments/assets/532eb829-9671-4d4a-a3b4-f747b830dfeb" width="300" />
+  <img src="https://github.com/user-attachments/assets/cd3e784b-2560-405b-ba78-62751bcd18c7" width="300" />
+  <img src="https://github.com/user-attachments/assets/9dcea6bf-37c3-4a3c-ace0-86c97b9154e9" width="300" />
 </p>
 
 ## 🎥 Çalışır Demo
